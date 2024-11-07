@@ -51,14 +51,23 @@
             style="@style/Widget.MaterialComponents.Chip.Filter"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Java" />
+            android:text="Arquitectura" />
 
         <com.google.android.material.chip.Chip
             android:id="@+id/cKotlin"
             style="@style/Widget.MaterialComponents.Chip.Filter"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kotlin" />
+            android:text="Iglesia" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/cMuseo"
+            style="@style/Widget.MaterialComponents.Chip.Filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Museo" />
+
+
 
     </com.google.android.material.chip.ChipGroup>
 

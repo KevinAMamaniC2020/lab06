@@ -26,7 +26,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="4"
                 android:scaleType="centerCrop"
-                android:src="@drawable/edit_detail" />
+                android:src="@drawable/catalina_convento" />
 
             <LinearLayout
                 android:layout_width="match_parent"
